@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning mobile app development in Swift/Flutter!
+- 🌱 I’m currently learning mobile app development in Swift/Flutter and Game Engine programming in C++!
 - 💻 My favorite language is C++ :)
 - 📫 How to reach me: liu861@usc.edu
 - 😄 Pronouns: she/her
